@@ -178,6 +178,4 @@ This project is for learning purposes. Not audited. Do not use with real funds.
 
 ---
 
-## 📄 License
-
-MIT
+# Made by: Vincen Imanuel and Claude
