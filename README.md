@@ -178,4 +178,6 @@ This project is for learning purposes. Not audited. Do not use with real funds.
 
 ---
 
-# Made by: Vincen Imanuel and Claude
+## 👨‍💻 Made by
+
+[Vincen Imanuel](https://github.com/VincenImanuell) & Claude (Anthropic) 🤝
