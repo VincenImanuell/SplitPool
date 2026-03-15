@@ -163,8 +163,8 @@ Contoh:
 
 - [x] Smart contract dasar (deposit, claim, spending limit)
 - [x] Foundry tests
-- [ ] Deploy script + Sepolia deployment
-- [ ] React frontend + MetaMask integration
+- [x] Deploy script + Sepolia deployment
+- [x] React frontend + MetaMask integration
 - [ ] AI receipt validation (Gemini)
 - [ ] No-loss protocol (Aave Sepolia)
 - [ ] Multi-member pool (lebih dari 2 orang)
